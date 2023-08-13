@@ -12,3 +12,6 @@ Yet to implement:<br />
 *Time and score keeping<br />
 *Middle clicking<br />
 *Other difficulties<br />
+
+Known issues:<br />
+*Indexes are a mess, need to be fixed<br />
